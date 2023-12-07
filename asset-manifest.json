@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/httpsstellanwae.github.ioreactsitedarkmode/static/css/main.66b5bf73.css",
+    "main.js": "/httpsstellanwae.github.ioreactsitedarkmode/static/js/main.977b7b76.js",
+    "index.html": "/httpsstellanwae.github.ioreactsitedarkmode/index.html",
+    "main.66b5bf73.css.map": "/httpsstellanwae.github.ioreactsitedarkmode/static/css/main.66b5bf73.css.map",
+    "main.977b7b76.js.map": "/httpsstellanwae.github.ioreactsitedarkmode/static/js/main.977b7b76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66b5bf73.css",
+    "static/js/main.977b7b76.js"
+  ]
+}
